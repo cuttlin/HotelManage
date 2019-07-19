@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图形界面", "图形界面\图形界面.csproj", "{96933914-AB55-41AF-A4F6-BD70CDFC7B08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据访问与类库", "数据访问与类库\数据访问与类库.csproj", "{CEF59B60-9A0A-4569-A0AD-4C794DAF9F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB用户访问", "WEB用户访问\WEB用户访问.csproj", "{7DF9B747-2242-4B7B-BF3E-B3DD7CDBA548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96933914-AB55-41AF-A4F6-BD70CDFC7B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96933914-AB55-41AF-A4F6-BD70CDFC7B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96933914-AB55-41AF-A4F6-BD70CDFC7B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96933914-AB55-41AF-A4F6-BD70CDFC7B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF59B60-9A0A-4569-A0AD-4C794DAF9F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF59B60-9A0A-4569-A0AD-4C794DAF9F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF59B60-9A0A-4569-A0AD-4C794DAF9F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF59B60-9A0A-4569-A0AD-4C794DAF9F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF9B747-2242-4B7B-BF3E-B3DD7CDBA548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF9B747-2242-4B7B-BF3E-B3DD7CDBA548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF9B747-2242-4B7B-BF3E-B3DD7CDBA548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF9B747-2242-4B7B-BF3E-B3DD7CDBA548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

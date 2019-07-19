@@ -1,0 +1,15 @@
+C:\Users\封帅虎\Desktop\dotnet代码\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.dll
+C:\Users\封帅虎\Desktop\dotnet代码\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\HotelManage\数据访问与类库\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\封帅虎\Desktop\dotnet代码\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.dll
+C:\Users\封帅虎\Desktop\dotnet代码\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.pdb
+F:\fsh\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.dll
+F:\fsh\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.pdb
+F:\fsh\HotelManage\数据访问与类库\obj\Debug\ResolveAssemblyReference.cache
+F:\fsh\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.dll
+F:\fsh\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.pdb
+C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.dll
+C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.pdb
+C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.dll
+C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.pdb
