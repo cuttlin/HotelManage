@@ -214,7 +214,7 @@ http://www.templatemo.com/tm-501-neaty
                             <footer>
                                 <p class="tm-copyright-p">Copyright &copy; <span class="tm-current-year">2017</span> Your Company 
                                 
-                                | Designed by <a href="#" target="_parent">13组</a></p>
+                                | Designed by <a href="#" target="_parent">cuttlin</a></p>
                             </footer>
                         </div>  
                         

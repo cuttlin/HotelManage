@@ -59,7 +59,7 @@
 	</div>
 
 	<div class="footer w3layouts agileits">
-		<p>Copyright &copy;13组</p>
+		<p>Copyright &copy;cuttlin</p>
 	</div>
 
 </body>

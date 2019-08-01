@@ -13,3 +13,8 @@ C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\bin\Debug\数�
 C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.dll
 C:\Users\Administrator\Desktop\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.pdb
+E:\20190508\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.dll
+E:\20190508\HotelManage\数据访问与类库\bin\Debug\数据访问与类库.pdb
+E:\20190508\HotelManage\数据访问与类库\obj\Debug\ResolveAssemblyReference.cache
+E:\20190508\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.dll
+E:\20190508\HotelManage\数据访问与类库\obj\Debug\数据访问与类库.pdb
